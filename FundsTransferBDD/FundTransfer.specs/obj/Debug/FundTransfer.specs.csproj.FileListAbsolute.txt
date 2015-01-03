@@ -1,0 +1,13 @@
+C:\codebase\Scratch\FundsTransferBDD\FundTransfer.specs\bin\Debug\FundTransfer.specs.dll.config
+C:\codebase\Scratch\FundsTransferBDD\FundTransfer.specs\bin\Debug\FundTransfer.specs.dll
+C:\codebase\Scratch\FundsTransferBDD\FundTransfer.specs\bin\Debug\FundTransfer.specs.pdb
+C:\codebase\Scratch\FundsTransferBDD\FundTransfer.specs\bin\Debug\nunit.framework.dll
+C:\codebase\Scratch\FundsTransferBDD\FundTransfer.specs\bin\Debug\TechTalk.SpecFlow.dll
+C:\codebase\Scratch\FundsTransferBDD\FundTransfer.specs\bin\Debug\WebDriver.dll
+C:\codebase\Scratch\FundsTransferBDD\FundTransfer.specs\bin\Debug\WebDriver.Support.dll
+C:\codebase\Scratch\FundsTransferBDD\FundTransfer.specs\bin\Debug\nunit.framework.xml
+C:\codebase\Scratch\FundsTransferBDD\FundTransfer.specs\bin\Debug\WebDriver.xml
+C:\codebase\Scratch\FundsTransferBDD\FundTransfer.specs\bin\Debug\WebDriver.Support.xml
+C:\codebase\Scratch\FundsTransferBDD\FundTransfer.specs\obj\Debug\FundTransfer.specs.csprojResolveAssemblyReference.cache
+C:\codebase\Scratch\FundsTransferBDD\FundTransfer.specs\obj\Debug\FundTransfer.specs.dll
+C:\codebase\Scratch\FundsTransferBDD\FundTransfer.specs\obj\Debug\FundTransfer.specs.pdb
