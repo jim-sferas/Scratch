@@ -11,3 +11,4 @@ C:\codebase\Scratch\FundsTransferBDD\FundTransfer.specs\bin\Debug\WebDriver.Supp
 C:\codebase\Scratch\FundsTransferBDD\FundTransfer.specs\obj\Debug\FundTransfer.specs.csprojResolveAssemblyReference.cache
 C:\codebase\Scratch\FundsTransferBDD\FundTransfer.specs\obj\Debug\FundTransfer.specs.dll
 C:\codebase\Scratch\FundsTransferBDD\FundTransfer.specs\obj\Debug\FundTransfer.specs.pdb
+C:\codebase\Scratch\FundsTransferBDD\FundTransfer.specs\bin\Debug\chromedriver.exe

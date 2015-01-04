@@ -16,7 +16,8 @@ namespace FundTransfer.specs {
         private static ChromeDriver driver;
         
         public static IWebDriver Driver {
-            get { return driver ?? (driver = new ChromeDriver(@"C:\ChromeDriver")); }
+//?-        get { return driver ?? (driver = new ChromeDriver(@"C:\ChromeDriver")); }
+            get { return driver ?? (driver = new ChromeDriver(@"C:\codebase\Scratch\FundsTransferBDD\packages\Selenium.WebDriver.ChromeDriver.2.12.0.0\content")); }
         }
 
         [AfterTestRun]
